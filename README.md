@@ -14,3 +14,5 @@ FINAL GRADE: Assignment1: (**to be assigned**); Assignment2: (**to be assigned**
 Due to the file sizes here are the projects:   
 Assignment1: https://drive.google.com/drive/folders/1I5UYz4aEyJ_T6xvUS0_vWkV0DjArH22o?usp=share_link (**Frequent itemsets and association rules; Similar items**)  
 Assignment2: https://drive.google.com/drive/folders/1YY2ndcoccN_T6Qoct0uSXIyLxWfM0jWF?usp=share_link (**Clustering and Collaborative Filtering**)  
+
+Assignment3: https://drive.google.com/drive/folders/1auCN1FQJD9zSOdc476UDpM-JAHKhfL-i?usp=sharing (**Community Detection in Social Networks and Streams**) 
