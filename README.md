@@ -9,7 +9,7 @@ Self-study is highly encouraged.
 ## Grading 
 - Grading will be based on three practical assignments (60%) and final exam (40%). 
 
-FINAL GRADE: Assignment1: (**to be assigned**); Assignment2: (**to be assigned**); Assignment3: (**to be delivered**); Exam: (**to be assigned**). FINAL MARK: (**to be assigned**)
+FINAL GRADE: Assignment1: 18.3; Assignment2: 18.5; Assignment3: 18.4; Exam: 20. FINAL MARK: 19.
 
 Due to the file sizes here are the projects:   
 Assignment1: https://drive.google.com/drive/folders/1I5UYz4aEyJ_T6xvUS0_vWkV0DjArH22o?usp=share_link (**Frequent itemsets and association rules; Similar items**)  
